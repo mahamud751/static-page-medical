@@ -1,0 +1,26 @@
+@media (min-width: 992px) {
+  .card {
+    margin-left: -90px;
+    width: 200px;
+  }
+  .regular_btn {
+    margin-left: -60px;
+  }
+  .header {
+    margin-left: 120px;
+  }
+}
+@media (max-width: 575.98px) {
+  .card {
+    display: none;
+  }
+  .service {
+    margin-top: 320px;
+  }
+  .hospital {
+    margin-top: 420px;
+  }
+  .footer {
+    height: 100vh;
+  }
+}
